@@ -1,0 +1,21 @@
+{
+    "name": "Blurb",
+    "displayName": "Blurb",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blurb",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blurb-color-theme.json"
+            }
+        ]
+    }
+}
