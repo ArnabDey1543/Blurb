@@ -6,7 +6,8 @@
 		"activityBarBadge.background": "#9aff6c",
 		"sideBarTitle.foreground": "#ffffff",
 		"toolbar.activeBackground" : "#ff1111",
-		"activityBar.background" : "#f78f07"
+		"activityBar.background" : "#f78f07",
+		"sideBar.background" : "#845b03"
 	},
 	"tokenColors": [
 		{
