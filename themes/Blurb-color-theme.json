@@ -7,7 +7,10 @@
 		"sideBarTitle.foreground": "#ffffff",
 		"toolbar.activeBackground" : "#ff1111",
 		"activityBar.background" : "#f78f07",
-		"sideBar.background" : "#845b03"
+		"sideBar.background" : "#845b03",
+		"scrollbar.shadow" : "#191515",
+		"scrollbarSlider.background" : "#dfa402",
+		"scrollbarSlider.hoverBackground" : "#987106"
 	},
 	"tokenColors": [
 		{
