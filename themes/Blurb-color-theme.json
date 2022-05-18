@@ -3,14 +3,23 @@
 	"colors": {
 		"editor.background": "#072d41",
 		"editor.foreground": "#00ffff",
-		"activityBarBadge.background": "#9aff6c",
-		"sideBarTitle.foreground": "#ffffff",
 		"toolbar.activeBackground" : "#ff1111",
+		// ActivityBar
+		"activityBarBadge.background": "#9aff6c",
 		"activityBar.background" : "#f78f07",
+		// sideBar
 		"sideBar.background" : "#845b03",
+		"sideBarTitle.foreground": "#ffffff",
+
+		// ScrollBar
 		"scrollbar.shadow" : "#191515",
 		"scrollbarSlider.background" : "#dfa402",
-		"scrollbarSlider.hoverBackground" : "#987106"
+		"scrollbarSlider.hoverBackground" : "#987106",
+		// EditorGroup and Tabs 
+		"tab.activeBackground": "#26b9d6",
+		"tab.inactiveBackground" : "#3da5ba",
+		"editorGroupHeader.tabsBackground": "#f08a06"
+
 	},
 	"tokenColors": [
 		{
