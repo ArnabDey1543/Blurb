@@ -16,9 +16,15 @@
 		"scrollbarSlider.background" : "#dfa402",
 		"scrollbarSlider.hoverBackground" : "#987106",
 		// EditorGroup and Tabs 
-		"tab.activeBackground": "#26b9d6",
-		"tab.inactiveBackground" : "#3da5ba",
-		"editorGroupHeader.tabsBackground": "#f08a06"
+		"tab.activeBackground": "#107488",
+		"tab.inactiveBackground" : "#044957",
+		"editorGroupHeader.tabsBackground": "#a96c1b",
+		// selectionTab
+		"menu.background": "#aa6f21",
+		"menu.selectionBackground": "#10415c",
+		"titleBar.activeBackground": "#072d41",
+		"notifications.background": "#087579",
+		"button.background": "#15aaa5"
 
 	},
 	"tokenColors": [
